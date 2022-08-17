@@ -1,0 +1,149 @@
+html
+{
+  margin: 0;
+  height:100%;
+}
+body
+{
+  margin: 0;
+  height:100%;
+  text-align: center;
+  background-color: #F0F8FF;
+}
+h1
+{
+  font-family:'Prompt', sans-serif;
+  margin-top: 0;
+  text-align: center;
+  font-size: 40px;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3
+{
+  font-family: 'Prompt', sans-serif;
+  font-weight: normal;
+  font-weight: bold;
+  color: #40514E;
+}
+h2
+{
+  font-family: 'Prompt', sans-serif;
+  color: #66BFBF;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+p
+{
+font-family: 'Secular One', sans-serif;
+font-weight: bold;
+color: #40514E;
+line-height: 2;
+}
+.first
+{
+  text-align: center;
+  padding-top: 125px;
+}
+.bg-container {
+  text-align: center;
+  width:100%;
+  height:100%;
+  background-image:url("https://i.pinimg.com/564x/25/8e/4f/258e4f5949d7446112495c00ca880bf1.jpg");
+}
+.profilepic
+{
+  height: 200px;
+  width: 200px;
+}
+.computerpic
+{
+  height: 175px;
+  width: 175px;
+
+}
+.stundentpic
+{
+  height: 175px;
+  width: 175px;
+}
+.myname
+{
+  color: #2F4F4F;
+  font-size: 80px;
+  font-family: 'Prompt', sans-serif;
+}
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+.compstud
+{
+  font-size: 30px;
+  font-family:'Prompt', sans-serif;
+  padding-top: 230px;
+  color: #2F4F4F;
+
+}
+.middle-container
+{
+border-style: hidden;
+background-color: #F0F8FF;
+margin: 100px 0 100px 0;
+}
+.bottom-container
+{
+  background-color: #66BFBF;
+  margin: 50px 0 30px 0;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #2F4F4F;
+  border-width: 5px;
+  width: 5%;
+
+}
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.mycollege
+{
+  font-family: 'Prompt', sans-serif;
+}
+.footer-link
+{
+  text-decoration: none;
+  font-size: 30px;
+  font-family: 'Prompt', sans-serif;
+}
+.footer-link:hover
+{
+  color:#2F4F4F;
+}
